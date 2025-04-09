@@ -1,4 +1,7 @@
  Greeting Card Maker (Terminal-Based - Haskell)
+
+
+
 Welcome to the Greeting Card Maker, a terminal-based application written in Haskell that allows users to create, view, and manage greeting cards interactively. Whether it's for a birthday, anniversary, or any special occasion, this app helps you store personalized cards right from the command line!
 
 📦 Features
